@@ -3,7 +3,7 @@
     "private": false,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://mevdenic.github.io/react_usepopcorn/",
+    "homepage": "https://mevdenic.github.io/react_usePopcorn/",
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d dist",
